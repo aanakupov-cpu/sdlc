@@ -38,7 +38,7 @@ Ranged Weapons: Sawed-off shotgun and grenades.
 
 Melee Combat: Brutal and visceral bayonet executions driven by accumulated rage.
 
-⚔️ The Climax: Brother Against Brother
+The Climax: Brother Against Brother
 
 The final scene of the game is a blind clash between the brothers on the battlefield. Amidst the chaos of war, they do not recognize each other.
 
