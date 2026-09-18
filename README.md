@@ -1,5 +1,5 @@
 Blood on Both Sides (Working Title)
-<img width="751" height="1071" alt="image" src="https://github.com/user-attachments/assets/95fb95c5-3372-46c9-8021-aed0b771b5b8" />
+<img width="401" height="701" alt="image" src="https://github.com/user-attachments/assets/95fb95c5-3372-46c9-8021-aed0b771b5b8" />
 
 Genre: 2D Pixel-Art Platformer / Action
 
