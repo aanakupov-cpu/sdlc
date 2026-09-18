@@ -1,4 +1,5 @@
-Blood on Both Sides (Working Title) 
+# $${\color{red}\textbf{Blood on Both Sides}}$$
+
 
    <img width="600" height="500" alt="image" src="https://gdb.rferl.org/bca95e0f-1fc1-4541-822c-45b6be438adb_w1080_h608_s.jpg" />
 
