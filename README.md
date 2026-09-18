@@ -8,7 +8,7 @@ Engine: Godot 4.7.2 (stable)
 Setting: Russian Civil War (1916–1919)
 
 Status: In Development (Currently focusing on lore and narrative design)
-![Image alt](https://github.com/aanakupov-cpu/sdlc/blob/main/%D0%98%D0%B3%D1%80%D0%B0%20%D0%B0%D1%81%D1%81%D0%B5%D1%82%D1%8B/Background.png)
+![Image alt](https://github.com/aanakupov-cpu/sdlc/blob/main/%D0%98%D0%B3%D1%80%D0%B0%20%D0%B0%D1%81%D1%81%D0%B5%D1%82%D1%8B/image.png)
 About the Project
 
 A historical 2D action game featuring a brutal and dynamic combat system inspired by Guns, Gore & Cannoli 2. The game tells the tragic story of a family torn apart against the backdrop of a collapsing empire. At the center of the plot are twin brothers from the impoverished noble Vorontsov family, who find themselves on opposite sides of the barricades.
