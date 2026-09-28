@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 # Токен берется из секретов GitHub
-TOKEN = os.getenv('8624862073:AAG3VjpAsav6SVNp_jZBPC2AEhL66X1t3xk')
+TOKEN = os.getenv('BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
